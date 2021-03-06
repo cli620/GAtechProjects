@@ -1,0 +1,33 @@
+PART B TEST CASE RESULTS
+-----------
+Test Case 1
+  Expected locations: [(1.5, -1.5), (5.0, -3.5)]
+  Reached locations: [(5.0, -3.5), (1.5, -1.5)]
+  Credit: 100%
+-----------
+Test Case 2
+  Expected locations: [(4.5, -4.5), (1.5, -2.0)]
+  Reached locations: [(4.5, -4.5), (1.5, -2.0)]
+  Credit: 100%
+-----------
+Test Case 3
+  Expected locations: [(5.5, -2.0), (4.5, -4.5)]
+  Reached locations: [(4.5, -4.5), (5.5, -2.0)]
+  Credit: 100%
+-----------
+Test Case 4
+  Expected locations: [(5.5, -1.5), (7.0, -2.5)]
+  Reached locations: [(5.5, -1.5), (7.0, -2.5)]
+  Credit: 100%
+-----------
+Test Case 5
+  Expected locations: [(1.5, -2.5), (5.5, -2.5)]
+  Reached locations: [(1.5, -2.5), (5.5, -2.5)]
+  Credit: 100%
+-----------
+Test Case 6
+  Expected locations: [(2.5, -1.5), (4.5, -1.5)]
+  Reached locations: [(2.5, -1.5), (4.5, -1.5)]
+  Credit: 100%
+-----------
+Part B Credit: 1.00
